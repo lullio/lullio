@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![my-header-image](./images-header/github-header-image.png)
 # Hello World 🖐️
 <h3>Things I code with</h3>
 <p>
