@@ -51,7 +51,11 @@ Here are some ideas to get you started:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 
-
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-%FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-%009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
@@ -142,7 +146,7 @@ Here are some ideas to get you started:
 ## ORGANIZATION
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=Confluence&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Google Keep](https://img.shields.io/badge/Google%20Keep-FFBB00.svg?style=for-the-badge&logo=Google-Keep&logoColor=white)
 ![Google-Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4.svg?style=for-the-badge&logo=Google-Calendar&logoColor=white)
 
@@ -184,12 +188,7 @@ Here are some ideas to get you started:
   
 ---
   
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
 ## SOCIAL
 
