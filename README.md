@@ -46,23 +46,16 @@ Here are some ideas to get you started:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 ![Sass](https://img.shields.io/badge/Sass-%CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-%183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-%FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-%009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
-
+![NGINX](https://img.shields.io/badge/NGINX-%D22128.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-![Sourcetree](https://img.shields.io/badge/Sourcetree-%0052CC.svg?style=for-the-badge&logo=Sourcetree&logoColor=white)
-
+![Sourcetree](https://img.shields.io/badge/Sourcetree-%D22128.svg?style=for-the-badge&logo=Sourcetree&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -122,16 +115,6 @@ Here are some ideas to get you started:
   ---
   
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-  
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-  
-
-    
-
         
 ## BEST CODE EDITOR ❤❤
 
@@ -151,24 +134,17 @@ Here are some ideas to get you started:
 ![Google-Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4.svg?style=for-the-badge&logo=Google-Calendar&logoColor=white)
 
 ## DIGITAL MARKETING
-
 ![Google-Ads](https://img.shields.io/badge/Google%20Ads-4285F4.svg?style=for-the-badge&logo=Google-Ads&logoColor=white)
-
 ![Google-Analytics](https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white)
 ![Google-Tag-Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB.svg?style=for-the-badge&logo=Google-Tag-Manager&logoColor=white)
-
 ![Google-Search-Console](https://img.shields.io/badge/Google%20Search%20Console-246FDB.svg?style=for-the-badge&logo=Google-Search-Console&logoColor=white)
 ![Facebook%20ADS](https://img.shields.io/badge/Facebook%20ADS-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-%96588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white)
 
 ## STUDYING IN
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white)
-
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-
 ![W3C](https://img.shields.io/badge/W3C-005A9C.svg?style=for-the-badge&logo=W3C&logoColor=white)
 
 ## PROJECTS
@@ -199,6 +175,7 @@ Here are some ideas to get you started:
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-
-
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+  
 
