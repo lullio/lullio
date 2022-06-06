@@ -90,12 +90,12 @@ Here are some ideas to get you started:
 
 ---
 
-# 📌 Checkout my Portfolio
+# 📌 See my Portfolio
 - https://lullio.com.br
 
 ---
 
-# 🚩 Checkout my Blog that i use for personal notes
+# 🚩 See my Blog that i use for personal notes
 - https://lullio.com.br/blog
 
 ---
