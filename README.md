@@ -185,14 +185,14 @@ Here are some ideas to get you started:
 | SOCIAL                                                                                                             | URL                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | https://www.linkedin.com/in/felipe-lullio/ |
+| ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | [(11) 99148-6309](https://wa.me/5511991486309?text=Oi%2C%20vim%20pelo%20Github%2C%20podemos%20conversar%20sobre%20seu%20CV%3F%F0%9F%98%80) |
 | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | [felipelullio@gmail.com](mailto:felipelullio@gmail.com?cc=felipe@lullio.com&bcc=lulliofelipe@gmail.com&subject=Oi%20Vim%20pelo%20Github&body=Podemos%20conversar%20sobre%20seu%20CV) |
 | ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) | https://codepen.io/lullinho/pens/popular |
 | ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white) | skype:live:felipe.lullio?chat&topic=ContatoSite |
-| ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) | [(11) 99148-6309](https://wa.me/5511991486309?text=Oi%2C%20vim%20pelo%20Github%2C%20podemos%20conversar%20sobre%20seu%20CV%3F%F0%9F%98%80) |
-| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | https://codepen.io/lullinho/pens/popular |
+| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | [felipelullio](https://t.me/felipelullio) |
 | ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) | https://youtube.com/canaldoLULLINHOs2 |
 | ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) | [felipe-lullio](https://stackoverflow.com/users/12253274/felipe-lullio?tab=profile) |
-| ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) | [felipe@lullio.com.br](https://teams.microsoft.com/l/chat/0/0?users=felipe@lullio.com.br) |
+| ![Microsoft Teams](https://img.shields.io/badge/-Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) | [felipe@lullio.com.br](https://teams.microsoft.com/l/chat/0/0?users=felipe@lullio.com.br) |
 
   
 
