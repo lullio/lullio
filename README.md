@@ -48,11 +48,6 @@ Here are some ideas to get you started:
 
 
 ![my-header-image](./images-header/github-header-image3.png)
-
-# Hello there! 🖐️
-
-<p>I'm a Fullstack JavaScript Developer and Digital Marketing. Below you can see soem of the tools and knowladge i acquired over my career. Keep in touch 😀</p>
-
 <div align="left">
   <a href="https://wa.me/5511991486309?text=Oi%2C%20vim%20pelo%20Github%2C%20podemos%20conversar%20sobre%20seu%20CV%3F%F0%9F%98%80" target="_blank">
     <img
@@ -74,6 +69,14 @@ Here are some ideas to get you started:
     />
   </a>
 </div>
+
+# Hello there! 🖐️
+
+<p>I'm a Fullstack JavaScript Developer and Digital Marketing. Below you can see soem of the tools and knowladge i acquired over my career. Keep in touch 😀</p>
+- I am experienced in HTML/CSS/JS, Java, C#, AHK and other coding languages
+- I have worked web apps, mobile apps, API
+- I have experience with SQL, MongoDB, PostgreSQL, MySQL, SQL Developer and other database technologies
+- I have used Node, Express, React and various other framework
 
 ## LANGUAGES
 
@@ -110,6 +113,7 @@ Here are some ideas to get you started:
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  
 </p>
+
 
 ---
 
