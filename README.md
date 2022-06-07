@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 - I am experienced in HTML/CSS/JS, Java, C#, AHK and other coding languages
 - I have worked web apps, mobile apps, API
 - I have experience with SQL, MongoDB, PostgreSQL, MySQL, SQL Developer and other database technologies
-- I have used Node, Express, React and various other framework
+- I have used Node, Express, React and other framweworks
 
 ## LANGUAGES
 
