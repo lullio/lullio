@@ -54,13 +54,13 @@ Here are some ideas to get you started:
 <p>I'm a Fullstack JavaScript Developer and Digital Marketing. Below you can see soem of the tools and knowladge i acquired over my career. Keep in touch 😀</p>
 
 <div align="left">
-  <a href="https://wa.me/5511991486309?text=Oi%2C%20vim%20pelo%20Github%2C%20podemos%20conversar%20sobre%20seu%20CV%3F%F0%9F%98%80">
+  <a href="https://wa.me/5511991486309?text=Oi%2C%20vim%20pelo%20Github%2C%20podemos%20conversar%20sobre%20seu%20CV%3F%F0%9F%98%80" target="_blank">
     <img
       src="https://img.shields.io/static/v1?logo=whatsapp&style=flat-square&color=0072b1&label=WhatsApp&message=%E2%98%86&logoColor=white"
       alt="WhatsApp"
     />
   </a>
-  <a href="https://www.linkedin.com/in/felipe-lullio/">
+  <a href="https://www.linkedin.com/in/felipe-lullio/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
