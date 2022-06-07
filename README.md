@@ -48,9 +48,32 @@ Here are some ideas to get you started:
 
 
 ![my-header-image](./images-header/github-header-image3.png)
+
 # Hello there! 🖐️
 
 <p>I'm a Fullstack JavaScript Developer and Digital Marketing. Below you can see soem of the tools and knowladge i acquired over my career. Keep in touch 😀</p>
+
+<div align="left">
+  <a href="https://wa.me/5511991486309?text=Oi%2C%20vim%20pelo%20Github%2C%20podemos%20conversar%20sobre%20seu%20CV%3F%F0%9F%98%80">
+    <img
+      src="https://img.shields.io/static/v1?logo=whatsapp&style=flat-square&color=0072b1&label=WhatsApp&message=%E2%98%86&logoColor=white"
+      alt="WhatsApp"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-lullio/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://app.daily.dev/lullio" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/932a16dc0de448689baf11c991dffd64.png?r=cro" alt="Felipe Lullio's Dev Card"
+    />
+  </a>
+</div>
 
 ## LANGUAGES
 
@@ -192,7 +215,8 @@ Here are some ideas to get you started:
 | ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | [felipelullio](https://t.me/felipelullio) |
 | ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) | https://youtube.com/canaldoLULLINHOs2 |
 | ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) | [felipe-lullio](https://stackoverflow.com/users/12253274/felipe-lullio?tab=profile) |
-| ![Microsoft Teams](https://img.shields.io/badge/-Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) | [felipe@lullio.com.br](https://teams.microsoft.com/l/chat/0/0?users=felipe@lullio.com.br) |
+| ![Microsoft Teams](https://img.shields.io/badge/-Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) | [felipe@lullio.com.br](https://teams.microsoft.com/l/chat/0/0?users=felipe@lullio.com.br) | 
+<a href="https://app.daily.dev/lullio"><img src="https://api.daily.dev/devcards/932a16dc0de448689baf11c991dffd64.png?r=cro" width="400" alt="Felipe Lullio's Dev Card"/></a>
 
  ---
  
