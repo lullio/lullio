@@ -221,7 +221,6 @@ Here are some ideas to get you started:
 | ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) | https://youtube.com/canaldoLULLINHOs2 |
 | ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) | [felipe-lullio](https://stackoverflow.com/users/12253274/felipe-lullio?tab=profile) |
 | ![Microsoft Teams](https://img.shields.io/badge/-Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) | [felipe@lullio.com.br](https://teams.microsoft.com/l/chat/0/0?users=felipe@lullio.com.br) | 
-<a href="https://app.daily.dev/lullio"><img src="https://api.daily.dev/devcards/932a16dc0de448689baf11c991dffd64.png?r=cro" width="400" alt="Felipe Lullio's Dev Card"/></a>
 
  ---
  
