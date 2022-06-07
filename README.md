@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 # Hello there! 🖐️
 
 <p>I'm a Fullstack JavaScript Developer and Digital Marketing. Below you can see soem of the tools and knowladge i acquired over my career. Keep in touch 😀</p>
+
 - I am experienced in HTML/CSS/JS, Java, C#, AHK and other coding languages
 - I have worked web apps, mobile apps, API
 - I have experience with SQL, MongoDB, PostgreSQL, MySQL, SQL Developer and other database technologies
