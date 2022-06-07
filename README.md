@@ -63,9 +63,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://app.daily.dev/lullio" target="_blank">
     <img
-      width="265"
+      width="267"
       align="right"
-      src="https://api.daily.dev/devcards/932a16dc0de448689baf11c991dffd64.png?r=cro" alt="Felipe Lullio's Dev Card"
+      src="https://github.com/lullio/lullio/blob/main/devcard.svg" alt="Felipe Lullio's Dev Card"
     />
   </a>
 </div>
