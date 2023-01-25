@@ -73,12 +73,13 @@ Here are some ideas to get you started:
 
 # Hello there! 🖐️
 
-<p>I'm a Fullstack JavaScript Developer and Digital Marketing. Below you can see soem of the tools and knowladge i acquired over my career. Keep in touch 😀</p>
+<p>I'm a Fullstack JavaScript Developer and Digital Marketing. Below you can see some of the tools and knowladge i acquired over my career. Keep in touch 😀</p>
 
-- I am experienced in HTML/CSS/JS, Java, C#, AHK and other coding languages
+- I am experienced in HTML/CSS/JS, Java, C#, Windows Automation and other coding languages
 - I have worked web apps, mobile apps, API
+- I have worked with Google Analytics 3, Google Analytics 4, Google Tag Manager, Looker Studio
 - I have experience with SQL, MongoDB, PostgreSQL, MySQL, SQL Developer and other database technologies
-- I have used Node, Express, React and other framweworks
+- I have used Node, Express, React, jQuery and other framweworks
 
 ## LANGUAGES
 
@@ -129,6 +130,11 @@ Here are some ideas to get you started:
 
 ---
 
+# 🚩 See my profile
+- 
+
+---
+
 ## 🔗 Projects
 
 | Online Code Snippets                                                                                                              | URL                                                                                                    |
@@ -163,18 +169,19 @@ Here are some ideas to get you started:
 
 ## IDE
 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 
 ---
 
 ## ORGANIZATION
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Google Keep](https://img.shields.io/badge/Google%20Keep-FFBB00.svg?style=for-the-badge&logo=Google-Keep&logoColor=white)
 ![Google-Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4.svg?style=for-the-badge&logo=Google-Calendar&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-4285F4.svg?style=for-the-badge&logo=Notion&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 ## DIGITAL MARKETING
 ![Google-Ads](https://img.shields.io/badge/Google%20Ads-4285F4.svg?style=for-the-badge&logo=Google-Ads&logoColor=white)
@@ -189,19 +196,18 @@ Here are some ideas to get you started:
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![W3C](https://img.shields.io/badge/W3C-005A9C.svg?style=for-the-badge&logo=W3C&logoColor=white)
-        
 
 ### 🌐 BROWSERS THAT I USE
 
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
   
 ### O.S THAT I USE
-![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=for-the-badge&logo=elementary&logoColor=white)
+![Windows 10 With WSL](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=for-the-badge&logo=elementary&logoColor=white)
   
 ---
 
