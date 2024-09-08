@@ -138,6 +138,7 @@ Here are some ideas to get you started:
 
 | Online Code Snippets                                                                                                              | URL                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| ![Todos Projetos](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white) | https://projetos.lullio.com.br/ |
 | ![JSFiddle](https://img.shields.io/badge/JSFiddle-0084FF.svg?style=for-the-badge&logo=JSFiddle&logoColor=white) | https://jsfiddle.net/user/felipelullio/fiddles/ |
 | ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white) | https://jsfiddle.net/user/felipelullio/fiddles/ |
 | ![CodePen](https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white) | https://codepen.io/lullinho/pens/popular |
@@ -151,7 +152,7 @@ Here are some ideas to get you started:
 
 ---
         
-## USING THE BEST CODE EDITOR ❤❤
+## USING THE BEST CODE EDITOR ❤
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
