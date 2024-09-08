@@ -71,13 +71,12 @@ Here are some ideas to get you started:
 
 # Hello there! 🖐️
 
-<p>I'm a Fullstack JavaScript Developer and Digital Marketing. Below you can see some of the tools and knowladge i acquired over my career. Keep in touch 😀</p>
+<p>I'm a Web Analytics Specialist and Fullstack JavaScript Developer. Below you can see some of the tools and knowladge i acquired over my career. Feel free to reach out! 😀</p>
 
-- I am experienced in HTML/CSS/JS, Java, C#, Windows Automation and other coding languages
-- I have worked web apps, mobile apps, API
-- I have worked with Google Analytics 3, Google Analytics 4, Google Tag Manager, Looker Studio
-- I have experience with SQL, MongoDB, PostgreSQL, MySQL, SQL Developer and other database technologies
-- I have used Node, Express, React, jQuery and other framweworks
+- I have experience with HTML5, CSS3, JavaScript, SQL, Git, NodeJS, React, ExpressJS, and Python.
+- I specialize in Universal Analytics, Google Analytics 4, Google Tag Manager, Looker Studio, and BigQuery.
+- I am proficient in working with SQL, MongoDB, PostgreSQL, MySQL, SQL Developer, and other database technologies.
+- I have worked with frameworks such as Node, Express, React, and jQuery, among others.
 
 ## LANGUAGES
 
@@ -120,7 +119,7 @@ Here are some ideas to get you started:
 ---
 
 # 📌 See my Portfolio
-- https://lullio.com.br
+- https://blog.lullio.com.br
 
 ---
 
