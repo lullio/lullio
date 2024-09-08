@@ -120,6 +120,7 @@ Here are some ideas to get you started:
 # 📌 See my Portfolio
 - https://blog.lullio.com.br
 
+<!--
 ---
 
 # 🚩 See my Blog that i use for personal notes
@@ -129,6 +130,7 @@ Here are some ideas to get you started:
 
 # 🚩 See my profile
 - 
+-->
 
 ---
 
